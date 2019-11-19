@@ -1,0 +1,1 @@
+python mainSAL.py path_to_imagenet_dataset
